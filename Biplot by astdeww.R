@@ -29,7 +29,7 @@ Maluku Utara
 Banten
 
 ## by Correlation ##
-#This is syntax by Astuti Dewi Warawati
+#This syntax is created by Astuti Dewi Warawati
 
 mydata<-read.csv('directory name/mydata.csv', header=T)
 Z<-scale(mydata)
